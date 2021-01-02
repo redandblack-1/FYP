@@ -16,7 +16,6 @@ If you have just started learning about self-sovereign identity, here are some r
 * This extended tutorial introduces Indy, explains how the whole ecosystem works, and how the
 functions in the SDK can be used to construct rich clients: [Indy-SDK Getting-Started Guide](docs/getting-started/indy-walkthrough.md)
 
-   
 
 ## Items included in this SDK
 
